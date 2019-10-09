@@ -1,0 +1,18 @@
+TABLE SET 
+=======
+
+TABLES_SETUP.SQL
+
+Creates the table 
+1. User_info
+2. Circle
+3. Message_info
+4. User_circle
+5. User_inbox
+
+And the Procedures for inserting the data into user_inbox table 
+
+And the triggers for automatic insersion of dat into user_inbox when user enters data into message_info table
+
+
+1. SQL2, SQL3,SQL4,SQL5  has required scripts to the tasks 2 to 14 on the assignement. 
